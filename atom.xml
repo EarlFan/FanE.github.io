@@ -6,7 +6,7 @@
   <link href="/FanE.github.io/atom.xml" rel="self"/>
   
   <link href="https://earlfan.github.io/FanE.github.io/"/>
-  <updated>2020-02-26T13:00:08.396Z</updated>
+  <updated>2020-02-26T13:29:45.743Z</updated>
   <id>https://earlfan.github.io/FanE.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://earlfan.github.io/FanE.github.io/wiki/How-to-Recover-File-after-Shift-Delete/"/>
     <id>https://earlfan.github.io/FanE.github.io/wiki/How-to-Recover-File-after-Shift-Delete/</id>
     <published>2020-02-26T12:45:21.000Z</published>
-    <updated>2020-02-26T13:00:08.396Z</updated>
+    <updated>2020-02-26T13:29:45.743Z</updated>
     
-    <content type="html"><![CDATA[<p>The easiest way on WIN-10 to delete is Shift+Delete, as it won’t bother you to check each file and evacuate the recycle bin again.<br>However, did you ever regret after pressing the Enter button? Well, this article provides a method without any recovery software</p><ol><li>Open the Registry:<br>Start -&gt; Run CMD -&gt; regedit </li><li>Expand the Registry term:<br>HKEY_LOCAL_MACHIME/SOFTWARE/MicroSoft/WINDOWS/CURRENTVERSION/EXPLORER/DESKTOP/NameSpace</li><li>New Key with Name <strong>645FFO40—5081—101B—9F08—00AA002F954E*</strong></li><li>Rename the default main key with <strong>Recycle Bin</strong></li></ol><p>then you’ll the file deleted by <strong>Shift+Delete</strong> in the Recycle Bin.</p>]]></content>
+    <content type="html"><![CDATA[<p>The easiest way on WIN-10 to delete is Shift+Delete, as it won’t bother you to check each file and evacuate the recycle bin again.<br>However, did you ever regret after pressing the Enter button? Well, this article provides a method without any recovery software</p><ol><li>Open the Registry:<br>Start -&gt; Run CMD -&gt; regedit </li><li>Expand the Registry term:<br>HKEY_LOCAL_MACHIME/SOFTWARE/MicroSoft/WINDOWS/CURRENTVERSION/EXPLORER/DESKTOP/NameSpace</li><li>New Key with Name <strong>645FFO40—5081—101B—9F08—00AA002F954E</strong></li><li>Rename the default main key with <strong>Recycle Bin</strong></li></ol><p>then you’ll the file deleted by <strong>Shift+Delete</strong> in the Recycle Bin.</p>]]></content>
     
     <summary type="html">
     
